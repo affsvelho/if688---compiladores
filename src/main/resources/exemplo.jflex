@@ -50,6 +50,7 @@ class             { System.out.println("Token CLASS"); }
 import             { System.out.println("Token IMPORT"); }
 static             { System.out.println("Token STATIC"); }
 new             { System.out.println("Token NEW"); }
+System.out.println {System.out.println("Token SYSTEM.OUT.PRINTLN");}
 
 
 /*operadores*/
